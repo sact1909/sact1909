@@ -53,7 +53,7 @@
 ## 💼 Professional Experience
 
 - **Xari** (United States)  
-  Senior Software Developer & Consultant, 2024 – Present  
+  Senior Software Developer & Consultant, 2020 – Present  
   <!-- :contentReference[oaicite:10]{index=10} -->
 - **Montero Consulting** (Dominican Republic)  
   Senior Software Developer & Tech Lead, Sep 2020 – Apr 2021; Aug 2022 – Present  
