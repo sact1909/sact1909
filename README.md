@@ -103,7 +103,7 @@
 ## 📫 Connect with Me
 
 - 📧 steven.checo.19@gmail.com  
-- 📞 +1 929 216 4308  
+- 📞 + 
 - 🔗 [GitHub: sact1909](https://github.com/sact1909)  
 - 🔗 [LinkedIn: Steven Checo](https://www.linkedin.com/in/steven-checo)  
 - 🔗 [Twitter: @steven1909](https://twitter.com/steven1909)  
